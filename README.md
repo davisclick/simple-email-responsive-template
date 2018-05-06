@@ -1,3 +1,7 @@
 # Simple Email Responsive Template
-Simple responsive HTML email which will work in every email client, including all the new smartphone mail clients and apps. It uses minimal media queries and a fluid width approach to ensure maximum compatibility.
 
+HTML responsive template for emails, it works on mobile, Gmaile, Outlook  and in every email client. 
+
+Try it!
+
+<img src="https://raw.githubusercontent.com/davisclick/simple-email-responsive-template/master/images/simple-email-responsive.png" alt="Simple HTML Email" width="1000">
