@@ -1,0 +1,1 @@
+# simple-email-responsive-template
